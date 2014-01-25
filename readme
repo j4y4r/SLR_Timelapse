@@ -1,0 +1,26 @@
+SLRTimelapse v0.1
+
+This needs some testing from my side, use it at your own risk!
+
+Features for now:
+
+Set time between pictures,
+Hit run,
+watch pictures counting up :)
+ 
+To stop hit reset.
+
+ToDo:
+delay for Shutter low/high 
+delay between Focus and Shutter
+
+
+I used
+
++ Arduino Uno or clone
++ LCD 16x2 Keypad Shield
++ Camera with Remote Shutter option(Nikon D3100)
++ Maybe some properitary plug, i got myself something of for ebay for a few euro
+
+
+
