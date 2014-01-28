@@ -1,6 +1,17 @@
+SLRTimelapse v0.2
+
+Tested, working fine.
+
+Fearures Added:
+
+Set amount of pictures to take.
+Return to Main Screen when done.
+
+
 SLRTimelapse v0.1
 
 This needs some testing from my side, use it at your own risk!
+
 
 Features for now:
 
@@ -10,9 +21,11 @@ watch pictures counting up :)
  
 To stop hit reset.
 
+
 ToDo:
-delay for Shutter low/high 
-delay between Focus and Shutter
+Calculate time left
+Switch between menus
+
 
 
 I used
@@ -21,6 +34,6 @@ I used
 + LCD 16x2 Keypad Shield
 + Camera with Remote Shutter option(Nikon D3100)
 + Maybe some properitary plug, i got myself something of for ebay for a few euro
-
++ PC817 Optocoupler
 
 
