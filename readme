@@ -1,8 +1,22 @@
+SLRTimelapse v0.3
+
+Features Added:
+
+Number of Pictures now increase by 10
+Show time left while running
+
+Fixes & other changes:
+
+Rearranged to Display settings after values are changed
+Seconds and number of pictures now only can be zero or positive
+Also changed comparison to button values, these may be different for other Shields, but i think it's more cleary that way
+
+
 SLRTimelapse v0.2
 
 Tested, working fine.
 
-Fearures Added:
+Features Added:
 
 Set amount of pictures to take.
 Return to Main Screen when done.
@@ -23,17 +37,16 @@ To stop hit reset.
 
 
 ToDo:
-Calculate time left
 Switch between menus
 
 
 
-I used
+Stuff needed
 
 + Arduino Uno or clone
 + LCD 16x2 Keypad Shield
 + Camera with Remote Shutter option(Nikon D3100)
-+ Maybe some properitary plug, i got myself something of for ebay for a few euro
++ Maybe some properitary plug, i got myself a cheap MC-DC2 copy on ebay for a few euro
 + PC817 Optocoupler
 
 
